@@ -22,3 +22,7 @@ flask run
 pip install pipreqs 
 
 pipreqs 
+
+wklejenie adresu strony
+
+http://127.0.0.1:5000/
