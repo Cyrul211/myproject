@@ -20,4 +20,5 @@ flask run
 #utworzenie pliku requirements.txt 
 
 pip install pipreqs 
+
 pipreqs 
