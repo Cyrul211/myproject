@@ -1,4 +1,5 @@
-Instalacja Flask
+
+
 #tworzenie pliku
 
 mkdir myproject 
