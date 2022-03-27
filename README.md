@@ -5,6 +5,7 @@ mkdir myproject
 
 cd myproject  
 #utworzenie wirtualnego środowiska oraz jego instalacja
+
 py -3 -m venv venv 
 
 venv\Scripts\activate 
