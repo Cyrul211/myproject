@@ -12,7 +12,9 @@ venv\Scripts\activate
 pip install Flask 
 
 set FLASK_APP=hello.py 
+
 flask run 
+
 #utworzenie pliku requirements.txt 
 
 pip install pipreqs 
